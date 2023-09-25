@@ -3,7 +3,7 @@ from setuptools import setup
 requirements = [
     'Flask',
     'gunicorn',
-    'gevent==1.1rc3',
+    'gevent==23.9.1',
     'setuptools',
 ]
 
